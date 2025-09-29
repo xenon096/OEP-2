@@ -43,7 +43,7 @@ public class SecurityConfig {
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowCredentials(true);
-        config.addAllowedOrigin("http://localhost:5173"); // Your frontend's origin
+        config.addAllowedOrigin("http://localhost:3000"); // Your frontend's origin
         config.setAllowedMethods(List.of("GET","POST","PUT","DELETE","PATCH","OPTIONS"));
         config.addAllowedHeader("*");
         config.addAllowedMethod("*");
