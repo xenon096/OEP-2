@@ -1,0 +1,21 @@
+questionText,questionType,difficultyLevel,marks,options,correctAnswer,explanation
+What is the size of int in Java?,MULTIPLE_CHOICE,EASY,2,"A) 2 bytes,B) 4 bytes,C) 8 bytes,D) Depends on system",B,"In Java, int is always 4 bytes (32-bit)."
+Which of the following is not an OOP concept in Java?,MULTIPLE_CHOICE,EASY,2,"A) Encapsulation,B) Polymorphism,C) Compilation,D) Inheritance",C,"Compilation is not an OOP concept, it is a process."
+Which keyword is used to inherit a class in Java?,MULTIPLE_CHOICE,EASY,2,"A) super,B) this,C) extends,D) implements",C,The 'extends' keyword is used for class inheritance.
+Which collection class allows you to access elements by key?,MULTIPLE_CHOICE,MEDIUM,3,"A) ArrayList,B) HashMap,C) LinkedList,D) HashSet",B,HashMap stores key-value pairs and allows access via keys.
+Which method is called when an object is created?,MULTIPLE_CHOICE,EASY,2,"A) finalize(),B) main(),C) constructor,D) new()",C,Constructors are called when objects are created.
+Which keyword prevents inheritance of a class?,MULTIPLE_CHOICE,MEDIUM,3,"A) final,B) const,C) static,D) abstract",A,The 'final' keyword prevents class inheritance.
+Which of these is not a valid access modifier in Java?,MULTIPLE_CHOICE,MEDIUM,3,"A) private,B) protected,C) internal,D) public",C,'internal' is not a valid access modifier in Java.
+Which interface is used for implementing collections that store unique elements?,MULTIPLE_CHOICE,MEDIUM,3,"A) List,B) Set,C) Queue,D) Map",B,Set interface is used for storing unique elements.
+What is the default value of a boolean variable in Java?,MULTIPLE_CHOICE,EASY,2,"A) true,B) false,C) 0,D) null",B,Default value of boolean is false.
+Which exception is thrown when dividing by zero in Java?,MULTIPLE_CHOICE,EASY,2,"A) NullPointerException,B) IOException,C) ArithmeticException,D) NumberFormatException",C,ArithmeticException occurs when dividing by zero.
+What does JVM stand for?,MULTIPLE_CHOICE,EASY,2,"A) Java Variable Machine,B) Java Virtual Machine,C) Java Vendor Machine,D) Joint Virtual Module",B,JVM stands for Java Virtual Machine.
+Which collection maintains insertion order?,MULTIPLE_CHOICE,MEDIUM,3,"A) HashSet,B) HashMap,C) LinkedHashMap,D) TreeSet",C,LinkedHashMap maintains insertion order.
+Which method must be implemented when a class implements Runnable?,MULTIPLE_CHOICE,MEDIUM,3,"A) run(),B) start(),C) execute(),D) call()",A,Runnable requires implementing the run() method.
+Which keyword is used to handle exceptions?,MULTIPLE_CHOICE,EASY,2,"A) catch,B) throws,C) throw,D) try-catch",D,try-catch is used for handling exceptions.
+Which of these allows multiple inheritance in Java?,MULTIPLE_CHOICE,HARD,5,"A) Classes,B) Abstract classes,C) Interfaces,D) Packages",C,Interfaces allow multiple inheritance in Java.
+Which package contains collection framework classes?,MULTIPLE_CHOICE,EASY,2,"A) java.util,B) java.sql,C) java.io,D) java.lang",A,Collections are part of java.util package.
+Which keyword is used to define a constant in Java?,MULTIPLE_CHOICE,EASY,2,"A) const,B) static final,C) final,D) static",B,Constants are declared using static final.
+Which of these is true about HashSet?,MULTIPLE_CHOICE,MEDIUM,3,"A) Maintains insertion order,B) Allows duplicate elements,C) Does not allow duplicate elements,D) Stores elements in sorted order",C,HashSet does not allow duplicates.
+Which class is the parent of all classes in Java?,MULTIPLE_CHOICE,EASY,2,"A) Object,B) Class,C) Super,D) Main",A,Object is the parent class of all classes in Java.
+Which method is used to start a thread in Java?,MULTIPLE_CHOICE,EASY,2,"A) execute(),B) run(),C) start(),D) init()",C,start() method is used to begin a thread execution.

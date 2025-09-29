@@ -1,0 +1,29 @@
+questionText,questionType,difficultyLevel,marks,options,correctAnswer,explanation
+What is React?,MULTIPLE_CHOICE,EASY,1,"A) JavaScript library,B) Programming language,C) Database,D) Operating System",A,React is a JavaScript library for building UIs.
+Who developed React?,MULTIPLE_CHOICE,EASY,1,"A) Google,B) Facebook,C) Microsoft,D) Twitter",B,React was developed by Facebook.
+What is JSX in React?,MULTIPLE_CHOICE,EASY,1,"A) JSON syntax,B) JavaScript XML,C) Java Syntax Extension,D) None",B,JSX is JavaScript XML syntax used in React.
+Which hook is used for state management?,MULTIPLE_CHOICE,EASY,1,"A) useState,B) useEffect,C) useContext,D) useRef",A,useState hook manages state in React.
+Which command creates a new React app?,MULTIPLE_CHOICE,EASY,1,"A) npm create react,B) npx create-react-app myApp,C) node react new,D) react new project",B,npx create-react-app myApp is used.
+Which method renders UI in class components?,MULTIPLE_CHOICE,EASY,1,"A) execute(),B) run(),C) render(),D) display()",C,Class components render UI using render().
+Which hook is used for side effects?,MULTIPLE_CHOICE,EASY,1,"A) useSide,B) useEffect,C) useRender,D) useContext",B,useEffect is used for side effects.
+Which symbol is used for fragments in React?,MULTIPLE_CHOICE,EASY,1,"A) {},B) [],C) <>,D) ()",C,Fragments are represented as <>...</>.
+What does ReactDOM.render() do?,MULTIPLE_CHOICE,EASY,1,"A) Renders UI to virtual DOM,B) Renders to real DOM,C) Compiles React code,D) None",B,ReactDOM.render() renders elements to the real DOM.
+Which extension is used for React files?,MULTIPLE_CHOICE,EASY,1,"A) .js,.jsx,B) .react,C) .html,D) .rjs",A,.js or .jsx are used.
+Which hook provides context in React?,MULTIPLE_CHOICE,EASY,1,"A) useRef,B) useContext,C) useState,D) useReducer",B,useContext accesses context values.
+React is mainly used for?,MULTIPLE_CHOICE,EASY,1,"A) Database,B) Frontend UI development,C) Backend services,D) Operating system",B,React is used for frontend UI.
+What is the virtual DOM in React?,MULTIPLE_CHOICE,EASY,1,"A) Copy of browser DOM,B) Lightweight copy of DOM in memory,C) Real DOM,D) XML format",B,Virtual DOM is a lightweight copy kept in memory.
+Which tag is used as a container in React?,MULTIPLE_CHOICE,EASY,1,"A) <div>,B) <root>,C) <app>,D) <container>",A,<div> is commonly used.
+Which company maintains React?,MULTIPLE_CHOICE,EASY,1,"A) Google,B) Facebook (Meta),C) Amazon,D) Microsoft",B,React is maintained by Meta (formerly Facebook).
+What is the purpose of useEffect hook?,MULTIPLE_CHOICE,MEDIUM,2,"A) Manage state,B) Perform side effects,C) Render UI,D) None",B,useEffect performs side effects in functional components.
+What is React Router used for?,MULTIPLE_CHOICE,MEDIUM,2,"A) Styling,B) Routing between pages,C) Data storage,D) API calls",B,React Router handles routing/navigation.
+What are props in React?,MULTIPLE_CHOICE,MEDIUM,2,"A) Methods,B) Arguments to components,C) Hooks,D) Classes",B,Props are arguments passed to components.
+Which hook replaces componentDidMount and componentDidUpdate?,MULTIPLE_CHOICE,MEDIUM,2,"A) useEffect,B) useState,C) useRef,D) useCallback",A,useEffect can act like componentDidMount and componentDidUpdate.
+What is Redux used for in React?,MULTIPLE_CHOICE,MEDIUM,2,"A) UI rendering,B) State management,C) Styling,D) API integration",B,Redux is a state management library.
+How do you pass data from parent to child in React?,MULTIPLE_CHOICE,MEDIUM,2,"A) State,B) Context,C) Props,D) Hooks",C,Props are used to pass data down.
+What is lazy loading in React?,MULTIPLE_CHOICE,MEDIUM,2,"A) Load all components,B) Load components on demand,C) Load only images,D) Load CSS files",B,Lazy loading loads components when needed.
+What is the difference between state and props?,MULTIPLE_CHOICE,MEDIUM,2,"A) Both are same,B) Props are immutable, state is mutable,C) State is passed, props are local,D) None",B,Props are immutable; state is mutable.
+Which hook is used for performance optimization by memoizing values?,MULTIPLE_CHOICE,MEDIUM,2,"A) useState,B) useMemo,C) useReducer,D) useEffect",B,useMemo memoizes computed values.
+What does key prop help with in lists?,MULTIPLE_CHOICE,MEDIUM,2,"A) Uniqueness,B) Styling,C) Sorting,D) Rendering order",A,Keys help uniquely identify elements.
+Explain React Fiber architecture.,MULTIPLE_CHOICE,HARD,5,"A) Old reconciliation,B) New reconciliation engine for React 16+,C) Virtual DOM alternative,D) CSS framework",B,React Fiber is the new reconciliation engine for React 16+.
+What is server-side rendering (SSR) in React?,MULTIPLE_CHOICE,HARD,5,"A) Rendering on browser,B) Rendering on server before sending HTML,C) Rendering JSON,D) Rendering only CSS",B,SSR renders React components on the server and sends HTML to client.
+What is the difference between useCallback and useMemo?,MULTIPLE_CHOICE,HARD,5,"A) Both are same,B) useCallback memoizes functions, useMemo memoizes values,C) useMemo for APIs only,D) None",B,useCallback memoizes functions; useMemo memoizes values.

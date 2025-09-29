@@ -1,0 +1,8 @@
+com\examportal\notificationservice\repository\NotificationRepository.class
+com\examportal\notificationservice\client\ExamClient.class
+com\examportal\notificationservice\controller\NotificationController.class
+com\examportal\notificationservice\entity\Notification.class
+com\examportal\notificationservice\service\FallbackNotificationService.class
+com\examportal\notificationservice\service\NotificationService.class
+com\examportal\notificationservice\client\UserClient.class
+com\examportal\notificationservice\NotificationServiceApplication.class

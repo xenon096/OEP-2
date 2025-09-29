@@ -1,0 +1,17 @@
+com\examportal\userservice\security\CustomUserDetailsService.class
+com\examportal\userservice\controller\UserController.class
+com\examportal\userservice\client\NotificationServiceClient.class
+com\examportal\userservice\dto\LoginResponse.class
+com\examportal\userservice\security\JwtRequestFilter.class
+com\examportal\userservice\client\ResultServiceClient.class
+com\examportal\userservice\security\JwtAuthenticationEntryPoint.class
+com\examportal\userservice\service\UserService.class
+com\examportal\userservice\config\CorsConfig.class
+com\examportal\userservice\repository\UserRepository.class
+com\examportal\userservice\security\SecurityConfig.class
+com\examportal\userservice\dto\LoginRequest.class
+com\examportal\userservice\entity\Role.class
+com\examportal\userservice\security\JwtUtil.class
+com\examportal\userservice\client\ExamSessionServiceClient.class
+com\examportal\userservice\UserServiceApplication.class
+com\examportal\userservice\entity\User.class
